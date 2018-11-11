@@ -1,0 +1,15 @@
+# Create Project
+
+`serverless create --template google-nodejs --path <project-name>`
+
+# Install
+
+`npm i`
+
+# Compile
+
+`npm run build`
+
+# Deploy
+
+serverless deploy
